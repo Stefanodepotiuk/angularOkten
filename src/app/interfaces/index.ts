@@ -1,3 +1,3 @@
-export * from './post.interface';
-export * from './user.interface';
-export * from './comment.interface';
+export * from './user.interfaces';
+export * from './post.interfaces';
+export * from './comment.interfaces';

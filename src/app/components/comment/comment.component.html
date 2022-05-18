@@ -1,0 +1,6 @@
+<div *ngIf="comment">
+  <div routerLinkActive="active">
+    {{comment.id}}.) {{comment.name}}
+    <button (click)="getDetails()">getDetails</button>
+  </div>
+</div>

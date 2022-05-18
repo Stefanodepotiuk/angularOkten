@@ -1,0 +1,8 @@
+a {
+  text-decoration: none;
+  color: red;
+}
+
+.active a{
+  color: blue;
+}
